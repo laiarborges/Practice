@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf=8>
+  <title>Just a generic page<title/>
+  <script>
+  setTimeout (wakeUpUser, 500) {
+  alert("Are you going to stare at this boring page forever?")
+}
+</script>
+</head>
+<body>
+  <h1> hi <h1/>
+  <h2> sup? <h2/>
+<body/>
+</html>
